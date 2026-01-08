@@ -1,6 +1,6 @@
 ## Project Title
 
-Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Shape Switcher").
+week 1 test
 
 ---
 
@@ -9,7 +9,7 @@ Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Sh
 List the full name, WatID, and student number for each group member.
 If the project is individual, include only your own information.
 
----
+Elizabeth Storchak, eestorch, 21060869
 
 ## Description
 
@@ -18,10 +18,7 @@ Explain what the user will see, how they can interact, and what inspired the des
 
 Example:
 
-> This project lets users switch between shapes using keyboard inputs.  
-> It explores how visual feedback can communicate accessibility states.
-
----
+>This is the test side quest for week 1
 
 ## Interaction Instructions
 
@@ -33,7 +30,7 @@ Describe how to use or play your project.
 
 Example:
 
-> Press `S` to switch shapes and `R` to reset the canvas.
+> there are no interactions
 
 ---
 
