@@ -18,7 +18,7 @@ Explain what the user will see, how they can interact, and what inspired the des
 
 Example:
 
->This is the test side quest for week 1
+>This is the test side quest for week 1. The background is blue
 
 ## Interaction Instructions
 
